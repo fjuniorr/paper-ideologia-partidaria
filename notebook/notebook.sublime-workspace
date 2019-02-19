@@ -1,0 +1,368 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"th",
+				"throw"
+			],
+			[
+				"aP",
+				"aPlay"
+			],
+			[
+				"a",
+				"aPerformance"
+			],
+			[
+				"pla",
+				"playFor"
+			],
+			[
+				"per",
+				"performance"
+			],
+			[
+				"pl",
+				"plays"
+			],
+			[
+				"new",
+				"newCalculator"
+			],
+			[
+				"expe",
+				"expectedInvoiceData"
+			],
+			[
+				"h",
+				"htmlStatement"
+			],
+			[
+				"to",
+				"totalVolumeCredits"
+			],
+			[
+				"tota",
+				"totalAmount"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"cre",
+				"createStatementData"
+			],
+			[
+				"Sta",
+				"statementData"
+			],
+			[
+				"pro",
+				"programmer"
+			],
+			[
+				"tot",
+				"totalAmount"
+			],
+			[
+				"s",
+				"statementData"
+			],
+			[
+				"tto",
+				"totalVolumeCredits"
+			],
+			[
+				"vol",
+				"volumeCredits"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"en",
+				"enrichPerformance"
+			],
+			[
+				"play",
+				"playID"
+			],
+			[
+				"sta",
+				"statementData"
+			],
+			[
+				"in",
+				"invoice"
+			],
+			[
+				"st",
+				"statement"
+			],
+			[
+				"volu",
+				"volumeCredits"
+			],
+			[
+				"this",
+				"thisAmount"
+			],
+			[
+				"thi",
+				"thisAmount"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"op",
+				"Open URL"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/fjunior/Dropbox/projects/paper_ideologia-partidaria/notebook/20190210130902 variable.factor = FALSE in datatable::dcast fails to store variable columns as character.md",
+		"/Users/fjunior/Dropbox/projects/paper_ideologia-partidaria/notebook/20190209152107 remove specific column with vars selection in gt.md",
+		"/Users/fjunior/Dropbox/projects/paper_ideologia-partidaria/notebook/20190210115837 handling special characters (accents) when using gt::as_rtf.md",
+		"/Users/fjunior/Dropbox/projects/paper_ideologia-partidaria/notebook/20190209152757 remove currency symbol from gt table.md",
+		"/Users/fjunior/Dropbox/projects/paper_ideologia-partidaria/notebook/20190209145856 remove formatting from gt::tab_header.md",
+		"/Users/fjunior/Dropbox/projects/paper_fjp/notebook/sugestoes.md",
+		"/Users/fjunior/Dropbox/projects/paper_fjp/notebook/data-viz-finance.md",
+		"/Users/fjunior/Dropbox/projects/paper_fjp/notebook/comentarios.md",
+		"/Users/fjunior/Dropbox/projects/paper_fjp/TODO.md",
+		"/Users/fjunior/.ssh/config",
+		"/Users/fjunior/Dropbox/notebook/20180804153210 shadow system.md",
+		"/Users/fjunior/Dropbox/notebook/20190129222802 yaml - alternative syntax for sequences and arrays.md",
+		"/Users/fjunior/Dropbox/notebook/20181227140503 rstats - nse - substitute.md",
+		"/Users/fjunior/Dropbox/notebook/20181227174705 markdown - pandoc - reference links.md",
+		"/Users/fjunior/Dropbox/notebook/.search_results.zkr",
+		"/Users/fjunior/Dropbox/notebook/20190129175321 sublime_zk - sublime text zettelkasten package.md",
+		"/Users/fjunior/Dropbox/notebook/20190129224118 '#tag1', '#tag2'.md",
+		"/Users/fjunior/Dropbox/notebook/notebook.sublime-project",
+		"/Users/fjunior/Dropbox/notebook/20180723092940 structural elements of a zettel note.Rmd",
+		"/Users/fjunior/Library/Application Support/Sublime Text 3/Packages/sublime_zk/sublime_zk.sublime-settings",
+		"/Users/fjunior/Dropbox/notebook/20190129175321 sublime_zk - sublime text zettelkasten package.Rmd",
+		"/Users/fjunior/Dropbox/notebook/file without id in filename.md",
+		"/Users/fjunior/Dropbox/notebook/20190129220931 20190129220729.md",
+		"/Users/fjunior/Dropbox/notebook/20190129192647 sublime_zk - insert pandoc citation.Rmd",
+		"/Users/fjunior/Library/Application Support/Sublime Text 3/Packages/User/sublime_zk.sublime-settings",
+		"/Users/fjunior/Dropbox/notebook/20180724125527 graphviz graphs - DiagrammeR - example.Rmd",
+		"/Users/fjunior/Dropbox/notebook/20180723183810 rstats - pkg dev - docs - exclude object from help index.Rmd",
+		"/Users/fjunior/Dropbox/notebook/20180723180531 template engines - rstats.Rmd",
+		"/Users/fjunior/Dropbox/notebook/20180723182828 rstats - pkg dev - docs - roxygen templates.Rmd",
+		"/Users/fjunior/Dropbox/notebook/20180720140653 bash shell scripting 101.Rmd",
+		"/Users/fjunior/Dropbox/notebook/20180720104619 remote desktop services (RDS) and remote desktop connection (RDC) in windows.Rmd",
+		"/Users/fjunior/Dropbox/notebook/20180720104334 networks - internet.Rmd",
+		"/Users/fjunior/Dropbox/notebook/20190122152956 problem solving - benchmarking.Rmd",
+		"/Users/fjunior/Dropbox/notebook/20180725161009 build tools - make - flavors of variables.Rmd",
+		"/Users/fjunior/Dropbox/notebook/20190126194748 alfred - file filter workflow for rmarkdown files.Rmd",
+		"/Users/fjunior/Dropbox/notebook/20181218180046 rstats - pkg dev - testing - testhat - exit code status.Rmd",
+		"/Users/fjunior/Dropbox/notebook/20181001160045 networks - internet - DNS records.Rmd",
+		"/Users/fjunior/Dropbox/notebook/a markdown file.md",
+		"/Users/fjunior/Dropbox/home/OSX/osx-setup.md",
+		"/Users/fjunior/Dropbox/projects/ppt_projetos-assessoria-SCPPO/20190122202722 pitch apresentacao projetos daniel.Rmd",
+		"/Users/fjunior/Dropbox/projects/ppt_projetos-assessoria-SCPPO/notebook/20180831141136 anotacoes - roteiro apresentacao.Rmd",
+		"/Users/fjunior/Dropbox/reference/fotos/picasa.md",
+		"/Users/fjunior/Dropbox/projects/codata/notes-2018-12-04.Rmd",
+		"/Users/fjunior/Dropbox/projects/codata/notes-2018-12-03.Rmd",
+		"/Users/fjunior/Dropbox/projects/codata/notes-2018-12-04.md",
+		"/Users/fjunior/Dropbox/projects/codata/notes-2018-12-03.md",
+		"/Users/fjunior/Documents/projects/fowler2018/notebook/20181224160513 js - getter in class.Rmd",
+		"/Users/fjunior/Documents/projects/fowler2018/invoices.json",
+		"/Users/fjunior/Documents/projects/fowler2018/test/test.js",
+		"/Users/fjunior/Documents/projects/fowler2018/notebook/20181224150346 js - test equality between object and json.Rmd",
+		"/Users/fjunior/Documents/projects/fowler2018/out.txt",
+		"/Users/fjunior/Documents/projects/fowler2018/main.js",
+		"/Users/fjunior/Documents/projects/fowler2018/foo.txt",
+		"/Users/fjunior/Documents/projects/fowler2018/index.html",
+		"/Users/fjunior/Documents/projects/fowler2018/notebook/20181224104727 js - modules.Rmd",
+		"/Users/fjunior/Documents/projects/fowler2018/notebook/20181224093602 js - fat arrow notation for anonymous functions.Rmd",
+		"/Users/fjunior/Documents/projects/fowler2018/.gitignore",
+		"/Users/fjunior/Documents/projects/fowler2018/notebook/20181223195919 js - shallow vs deep copy.Rmd",
+		"/Users/fjunior/Documents/projects/fowler2018/notebook/20181224072934 storing monetary values as integer.Rmd",
+		"/Users/fjunior/Documents/projects/fowler2018/notebook/20181223190740 js - function declaration vs function expression.Rmd",
+		"/Users/fjunior/Documents/projects/fowler2018/plays.json",
+		"/Users/fjunior/Documents/projects/fowler2018/.git/COMMIT_EDITMSG",
+		"/Users/fjunior/Documents/projects/fowler2018/notebook/20181223163005 const inside for loop.Rmd",
+		"/Users/fjunior/Documents/projects/fowler2018/package.json",
+		"/Users/fjunior/Documents/projects/fowler2018/README.md",
+		"/Users/fjunior/Documents/projects/book-refactoring/invoices.json",
+		"/Users/fjunior/Documents/projects/book-refactoring/plays.json",
+		"/Users/fjunior/Documents/projects/book-refactoring/test/test.js",
+		"/Users/fjunior/Documents/projects/book-refactoring/statement.js",
+		"/Users/fjunior/Documents/projects/book-refactoring/out.txt",
+		"/Users/fjunior/Documents/projects/book-refactoring/testing.js",
+		"/Users/fjunior/Dropbox/projects/book-refactoring/invoices.json",
+		"/Users/fjunior/Dropbox/projects/book-refactoring/plays.json",
+		"/Users/fjunior/Dropbox/projects/archive-projects/Doutorado Estatística.md",
+		"/Users/fjunior/Dropbox/projects/mestrado-estatistica/ementa.md",
+		"/Users/fjunior/Dropbox/projects/mestrado-estatistica/documentacao/README.md",
+		"/Users/fjunior/Dropbox/Atendimento.txt"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"zk",
+				"20190129175321 sublime_zk - sublime text zettelkasten package.Rmd"
+			],
+			[
+				"ya",
+				"20190129222802 yaml - alternative syntax for sequences and arrays.md"
+			],
+			[
+				"yaml",
+				"20190129222802 yaml - alternative syntax for sequences and arrays.md"
+			],
+			[
+				"net",
+				"20180720104334 networks - internet.Rmd"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 446.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
