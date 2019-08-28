@@ -15,6 +15,9 @@ dfPIBNominal <- readxl::read_excel("data/dfPIB.xlsx") %>%
   select(ANO, PIBNominal) %>% 
   mutate(PIBNominal = PIBNominal - 1)
 
+left_join(dfReceitaTributaria, dfPIBNominal, by = "ANO") %>% 
+  writexl::write_xlsx("data/dfgraf3.xlsx")
+
 
 left_join(dfReceitaTributaria, dfPIBNominal, by = "ANO") %>% 
   ggplot(aes(x = factor(ANO), y = ReceitaTributaria, group = 1, color = "Receita Tributária")) + 

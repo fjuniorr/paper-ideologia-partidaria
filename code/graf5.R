@@ -17,6 +17,9 @@ dfInvestimentos <- exec_desp %>%
   mutate(Investimentos = (Investimentos / first(Investimentos))*100) %>% 
   tidyr::drop_na()
 
+left_join(dfReceitaTotal, dfInvestimentos, by = "ANO") %>% 
+  writexl::write_xlsx("data/dfgraf5.xlsx")
+
   
 left_join(dfReceitaTotal, dfInvestimentos, by = "ANO") %>% 
   ggplot(aes(x = factor(ANO), y = ReceitaTotal, group = 1, color = "Receita Total")) + 
